@@ -1,0 +1,12 @@
+{  
+  "name": "wa-bug-tool",  
+  "version": "1.0.0",  
+  "description": "WA Bug Tool - Demo Version",  
+  "scripts": {  
+    "start": "echo 'No start command needed for Vercel'",  
+    "build": "echo 'No build command needed'"  
+  },  
+  "dependencies": {  
+    "cors": "^2.8.5"  
+  }  
+}  
